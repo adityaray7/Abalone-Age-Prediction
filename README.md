@@ -32,4 +32,4 @@ Aim:
     pearson correlation coeffecient with the target attribute for different values of degree and
     also finding the accuracy along with best p value.
 4.  Build multivariate polynomial regression model using all the attributes for different 
-5.  values of degrees.
+    values of degrees.
